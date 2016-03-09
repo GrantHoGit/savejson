@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=savejson
+Exec=qmlscene $@ savejson/Main.qml
+Icon=savejson/savejson.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+

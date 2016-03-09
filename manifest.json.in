@@ -1,0 +1,17 @@
+{
+    "name": "savejson.liu-xiao-guo",
+    "description": "description of savejson",
+    "architecture": "@CLICK_ARCH@",
+    "title": "savejson",
+    "hooks": {
+        "savejson": {
+            "apparmor": "savejson/savejson.apparmor",
+            "desktop":  "savejson/savejson.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+
